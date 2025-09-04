@@ -12,21 +12,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolevidev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolevidev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunolevidev&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -40,7 +25,6 @@
 ### 🚀 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### ⚡ Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
