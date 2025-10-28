@@ -70,40 +70,28 @@
 </td>
 <td width="50%">
 
-### 📱 [Chespli](https://brunolevi.dev/projects/chespli)
+### 📱 [Chespli](https://brunolevi.dev/proyectos-destacados/)
 **Modern IoT management platform**
-- Device fleet management
+- Device management
 - Real-time communication
 - Scalable IoT architecture
 - Modern responsive UI
 
-*Technologies: Spring Boot, Angular, MongoDB, Redis*
+*Technologies: Rust, MongoDB, Angular, Docker, AWS*
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎙️ [Voice Engine](https://brunolevi.dev/projects/voice-engine)
+### 🎙️ [Voice Engine](https://brunolevi.dev/proyectos-destacados/)
 **Advanced conversational AI engine**
 - Natural language processing
 - Multi-language support
 - Real-time voice recognition
 - Smart conversation flows
 
-*Technologies: Rust, MongoDB*
-
-</td>
-<td width="50%">
-
-### 🔗 [Zonora AI API Platform](https://brunolevi.dev/projects/zonora-api)
-**Next-gen AI API ecosystem**
-- Robust API architecture
-- AI model management
-- Scalable microservices
-- Developer-friendly SDKs
-
-*Technologies: NestJS, PostgreSQL, Docker*
+*Technologies: Rust, PostgreSQL, Docker, AWS*
 
 </td>
 </tr>
